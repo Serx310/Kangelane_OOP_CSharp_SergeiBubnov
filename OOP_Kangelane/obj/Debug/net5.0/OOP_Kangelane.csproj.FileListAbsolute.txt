@@ -1,0 +1,5 @@
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.AssemblyInfo.cs
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.csproj.CoreCompileInputs.cache
