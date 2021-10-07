@@ -22,10 +22,11 @@ namespace OOP_Kangelane
             return Convert.ToInt32(ohus*0.95);
         }
 
-        virtual public string toString()
+        public override string ToString()
         {
-            return _nimi.ToString();
+            return $"{_nimi} kaitseb linna nimega {_linn}.";
         }
+
 
         //Getter
         public string GetName() { return _nimi; }

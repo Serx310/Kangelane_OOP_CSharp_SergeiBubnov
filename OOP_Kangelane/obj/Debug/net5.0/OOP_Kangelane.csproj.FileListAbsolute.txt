@@ -3,3 +3,15 @@ C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kan
 C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.AssemblyInfoInputs.cache
 C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.AssemblyInfo.cs
 C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.exe
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.deps.json
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.runtimeconfig.json
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.runtimeconfig.dev.json
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.dll
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\ref\OOP_Kangelane.dll
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\OOP_Kangelane.pdb
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.dll
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\ref\OOP_Kangelane.dll
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.pdb
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\obj\Debug\net5.0\OOP_Kangelane.genruntimeconfig.cache
+C:\Users\serge\source\repos\OOP_Kangelane\OOP_Kangelane\bin\Debug\net5.0\Kangelased.txt

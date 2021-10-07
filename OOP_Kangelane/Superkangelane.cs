@@ -8,24 +8,24 @@ namespace OOP_Kangelane
 {
     public class Superkangelane : Kangelane
     {
+        private static Random r = new Random();
         private double _osavus;
 
-        public Superkangelane(string nimi, string linn, double osavus) : base(nimi, linn)
+        public Superkangelane(string nimi, string linn) : base(nimi, linn)
         {
-            Random r = new Random();
-            osavus = r.Next(1, 5);
-            _osavus = osavus;
+            _osavus = r.NextDouble()+r.Next(1, 5);
+             
         }
 
         public override int Päästa(int ohus)
         {
-            int päästetud = ohus * ((95+Convert.ToInt32(_osavus))/100);
+            int päästetud = Convert.ToInt32(ohus * (95 + _osavus) / 100);
             return päästetud;
         }
 
-        public override string toString()
+        public override string ToString()
         {
-            return $"{_nimi}, {_osavus}";
+            return base.ToString() + $"\nLisaks on ta {_osavus}% võrra osavam kui tavakangelane.";
         }
     }
 }
